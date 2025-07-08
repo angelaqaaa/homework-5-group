@@ -64,5 +64,6 @@ public class LogoutPresenter implements LogoutOutputBoundary {
     public void prepareFailView(String error) {
         // No need to add code here. We'll assume that logout can't fail.
         // Thought question: is this a reasonable assumption?
+        // 123
     }
 }
